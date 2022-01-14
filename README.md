@@ -9,6 +9,10 @@ http://50.7.34.155:2200/BR/Combate_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3M
 http://pfsv.io:80/9690096860/3170/249
 #EXTINF:0,ESPN BRASIL HD 
 http://50.7.34.155:2200/BR/ESPN_Brasil_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ==?md5=null
+#EXTINF:0,ESPN BRASIL FHD
+http://pfsv.io:80/9690096860/3170/30280
+#EXTINF:0,ESPN BRASIL SE
+http://pfsv.io:80/9690096860/3170/269
 #EXTINF:0,ESPN HD 
 http://50.7.34.155:2200/BR/ESPN_HD-br/tracks-v1a1/mono.m3u8?token=fwBlCndpe3MTCXplN3VjewVheXNnCXphewETcnctenVhfnNlfHJofQ%3D%3D%3Fmd5%3Dnull
 #EXTINF:0,ESPN 2 HD 
